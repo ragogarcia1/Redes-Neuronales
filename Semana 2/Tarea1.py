@@ -17,7 +17,7 @@ df = pd.read_csv(url, names=columns, sep=',\s', engine='python')
 # Paso 2: Preprocesamiento
 df = df.dropna()
 df = df[df['income'].isin(['<=50K', '>50K'])]
-
+print("Procesamiento 2;: ", df['income'])
 # Convertir variables categóricas
 for col in df.select_dtypes(include='object').columns:
     le = LabelEncoder()
