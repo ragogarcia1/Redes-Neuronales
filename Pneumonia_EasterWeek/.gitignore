@@ -1,0 +1,37 @@
+# ─────────────────────────────────────────────
+# DATASET DE IMÁGENES (demasiado pesado para GitHub)
+# Descarga desde: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+# ─────────────────────────────────────────────
+chest_xray/
+chest_xray_new_val/
+
+# ─────────────────────────────────────────────
+# MODELOS ENTRENADOS (archivos grandes)
+# ─────────────────────────────────────────────
+*.keras
+*.h5
+*.pb
+saved_model/
+
+# ─────────────────────────────────────────────
+# PYTHON
+# ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# ─────────────────────────────────────────────
+# JUPYTER
+# ─────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ─────────────────────────────────────────────
+# SISTEMA OPERATIVO
+# ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
