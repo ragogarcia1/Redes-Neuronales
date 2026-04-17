@@ -1,8 +1,5 @@
 # 🫁 Clasificación de Neumonía con CNN — Semana Santa
 
-Clasificación de radiografías de tórax usando Redes Neuronales Convolucionales (CNN).  
-Basado en la lógica del notebook `perrosygatos.ipynb` de la Semana 4/Tutorial.
-
 ---
 
 ## 📁 Estructura del proyecto
