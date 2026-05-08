@@ -1,0 +1,9 @@
+# Ignorar datasets de audio
+Semana 5/dataset_voces/
+Semana 5/dataset_voces_procesado/
+Semana 5/ReconocimientoDeVoz/archive/
+
+# Ignorar scripts temporales de preprocesamiento
+Semana 5/procesar_audios.py
+Semana 5/build_notebook.py
+Semana 5/ReconocimientoDeVoz/extracted_code.py
